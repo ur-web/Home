@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "id": "1985742632304496980",
+      "text": "你在看什麼呢？快下來陪我玩🐾",
+      "created_at": "2025-11-04T16:15:11.000Z",
+      "author_id": "1709992592241524736",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 109,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 3794
+      },
+      "attachments": {
+        "media_keys": [
+          "3_1985742632304496980"
+        ]
+      }
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1709992592241524736",
+        "name": "⁧星尤(UR)",
+        "username": "hoshyoa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831772230059016192/hVxqmu_S.jpg"
+      }
+    ],
+    "media": [
+      {
+        "media_key": "3_1985742632304496980",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47GTU6asAABYM1.jpg",
+        "preview_image_url": "https://pbs.twimg.com/media/G47GTU6asAABYM1.jpg"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1985742632304496980",
+    "oldest_id": "1985742632304496980",
+    "result_count": 1,
+    "next_token": null
+  }
+}
